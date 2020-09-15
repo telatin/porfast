@@ -1,6 +1,8 @@
 # porfast
 **⚡ pORFast** - Paired-end ORF Fast extraction
 
+![ORF Finder Logo](docs/logo_small.png)
+
 ## Usage
 
 ```
