@@ -1,2 +1,2 @@
 # porfast
-[ :flash: pORFast] Paired-end ORF Fast extraction
+[ ⚡ pORFast] Paired-end ORF Fast extraction
