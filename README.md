@@ -28,12 +28,24 @@ Options:
 
 ## Installation
 
-Bioconda installation is coming soon.
+### Linux
 
+* Installation via BioConda:
+```bash
+conda install -c bioconda porfast
+```
 * Download a pre-compiled binary:
-  * Linux: `wget https://github.com/telatin/porfast/releases/download/v0.8.0/porfast_linux`
-  * macOS: `wget https://github.com/telatin/porfast/releases/download/v0.8.0/porfast_osx`
-  
+```
+wget https://github.com/telatin/porfast/releases/download/v0.8.0/porfast_linux
+```
+
+### macOS
+
+* Download a pre-compiled library: 
+```
+curl -O ~/porfast https://github.com/telatin/porfast/releases/download/v0.8.0/porfast_osx
+```  
+If necessary, replace `~/porfast` with a destination available in your `$PATH`.
 
 ## Manual installation (compiling from source)
 
