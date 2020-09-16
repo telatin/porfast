@@ -26,7 +26,16 @@ Options:
   -h, --help                 Show this help
 ```
 
-## Manual installation
+## Installation
+
+Bioconda installation is coming soon.
+
+* Download a pre-compiled binary:
+  * Linux: `wget https://github.com/telatin/porfast/releases/download/v0.8.0/porfast_linux`
+  * macOS: `wget https://github.com/telatin/porfast/releases/download/v0.8.0/porfast_osx`
+  
+
+## Manual installation (compiling from source)
 
 Note that Bioconda installation is coming soon.
 
