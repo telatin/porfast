@@ -1,6 +1,8 @@
 # porfast
-**⚡ pORFast** - Paired-end ORF Fast extraction 
 [![Version](https://anaconda.org/bioconda/porfast/badges/version.svg)](https://bioconda.github.io/recipes/porfast/README.html) ![Downloads](https://anaconda.org/bioconda/porfast/badges/downloads.svg)
+
+**⚡ pORFast** - Paired-end ORF Fast extraction 
+
 
 ![ORF Finder Logo](docs/logo_small.png)  
 
