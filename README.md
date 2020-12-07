@@ -1,6 +1,8 @@
 # porfast
 [![Version](https://anaconda.org/bioconda/porfast/badges/version.svg)](https://bioconda.github.io/recipes/porfast/README.html) ![Downloads](https://anaconda.org/bioconda/porfast/badges/downloads.svg)
 
+:warning: this is a pre-release and some features are still under development. Please, let me know [your feedback, suggestions or bugs found](https://github.com/telatin/porfast/issues).
+
 **⚡ pORFast** - Paired-end ORF Fast extraction 
 
 
